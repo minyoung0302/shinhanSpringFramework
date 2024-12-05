@@ -14,6 +14,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 /**
  * <mvc:annotation-driven />
  * SpringÀº POJO¹æ½Ä
+ * 
  */
 @Controller
 public class HomeController {
